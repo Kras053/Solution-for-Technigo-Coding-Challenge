@@ -1,0 +1,28 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #050505;
+  font-size: 20px;
+}
+
+h2 {
+font-size: 14px;  
+}
+
+.introduction {
+font-size: 15px;
+}
+
+.introduction img {
+width: 15%;
+}
+
+.introduction h3 {
+  font-size: 10px;
+}
+
+.ending {
+  font-size: 14px;
+}
